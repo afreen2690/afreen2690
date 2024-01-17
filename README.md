@@ -2,7 +2,7 @@
   <img width="640" height="400" src="https://64.media.tumblr.com/e4a1503e3f49272e8d1f856ab80a2ba8/4a281222379b00ca-57/s640x960/ab7dbbc55632cc9639938576fdacacd23a7e62dd.gif">
 </p>
 
-<h1 align="center">Hi 👋, I'm Aysha Afreen Althaf</h1>
+<h1 align="center">Hi 👋, I'm Aysha Afreen</h1>
 <h3 align="center"> A passionate data scientist and analyst with a keen interest in extracting meaningful insights from complex datasets</h3>
 <img align="right" alt ="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
