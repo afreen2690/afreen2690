@@ -8,6 +8,30 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afreen2690&label=Profile%20views&color=0e75b6&style=flat" alt="afreen2690" /> </p>
 
+*With a Bachelor's degree in Computer Science from Manipal Academy of Higher Education, I have honed my skills in C++, Java, Python, R, and MATLAB, applying them to develop innovative solutions and applications.*
+
+
+
+**🚀 Summary of Skills:**
+
+*Advanced Programming: Proficient in multiple languages for complex problem-solving and project implementation.
+Data Analysis and Visualization: Experienced in SAS, SQL, and Excel VBA for extracting actionable insights.
+Project Management: Adept at managing diverse projects, from real-time social media data analysis to developing facial recognition-based authentication systems for mobile applications.
+Certifications and Specializations: Holds certifications in Python for Data Analysis, Google Analytics proficiency, and multiple SAS certifications in programming, visual analytics, and machine learning.*
+
+**📚 Education:**
+
+*Master of Data Science and Analytics (University of Calgary, present)
+Bachelor of Technology, Computer Science (Manipal Academy of Higher Education, 2018-2022)*
+
+**💼 Employment Experience:**
+
+*Associate Technical Consultant (SAS, Dubai): Achieved certifications, actively participated in diverse projects, and contributed to data-driven decision-making processes with a 100% accuracy rate.
+Artificial Intelligence Intern (Emerson Automation Solutions, Dubai): Implemented machine learning algorithms, automated Excel tasks, and actively contributed innovative ideas, improving efficiency by 70%.
+Artificial Intelligence Intern (Smart Internz Externship, Dubai): Engaged in a virtual AI externship program, completed IBM’s AI-Based Natural Disaster Intensity Analysis project, and mastered various AI technologies.
+Research and Development Intern (The Assembly, Dubai): Led research workshops on innovative topics, developed interactive applications, implemented AI face swapping, and achieved excellence in all projects with a 100% accuracy rate.*
+
+
 - 🌱 I’m currently learning **Power Bi , Tableau , Machine learning**
 
 - 📫 How to reach me **afreen2690@gmail.com**
